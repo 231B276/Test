@@ -1,4 +1,8 @@
-# Test
+# OSSLab 2025
 
-this is a test repo for lab
-this is change made from local
+## Lab Exercise 1
+Name: Saket Verma
+Roll Number: 231b276
+Email: 231b276@juetguna.in
+
+
